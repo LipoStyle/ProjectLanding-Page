@@ -78,9 +78,6 @@ header .heading-image .heading-text button:hover {
 .img-placeholder {
   height: 240px;
   width: 600px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 /*here is the information section style*/
 .info {
